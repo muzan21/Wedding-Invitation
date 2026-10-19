@@ -1,0 +1,235 @@
+{
+  "invitations": [
+    {
+      "id": "1718ab95ee281164",
+      "slug": "mukti-salim-hana-rahmawati",
+      "status": "published",
+      "createdAt": "2026-10-07T05:15:46.203Z",
+      "updatedAt": "2026-10-17T18:51:50.742Z",
+      "publishedAt": "2026-10-07T06:59:15.271Z",
+      "draft": {
+        "template": "bunga",
+        "event": {
+          "type": "Pernikahan",
+          "title": "Mukti Salim & Hana Rahmawati",
+          "subtitle": "The Wedding of",
+          "date": "2026-11-01",
+          "day": "",
+          "time": "09:00",
+          "endTime": "",
+          "tz": "WIB",
+          "venue": "Gedung Gor Harum",
+          "address": "GPQ4+WCQ, Jl. Mad Nur, Jampang, Kec. Ciseeng, Kabupaten Bogor, Jawa Barat 16120",
+          "mapsUrl": "https://share.google/OjPFK4QcuDZt6WRoj",
+          "schedule": [
+            {
+              "label": "Akad Nikah",
+              "time": ""
+            },
+            {
+              "label": "Resepsi",
+              "time": ""
+            }
+          ]
+        },
+        "people": [
+          {
+            "role": "Mempelai Pria",
+            "name": "Sandy Pratama",
+            "parents": "Putra dari Bapak Hendra Pratama & Ibu Ratna Dewi",
+            "photo": "/demo/mempelai-1.svg",
+            "bio": ""
+          },
+          {
+            "role": "Mempelai Wanita",
+            "name": "Kala Anindya",
+            "parents": "Putri dari Bapak Surya Anindya & Ibu Lestari Wulan",
+            "photo": "/demo/mempelai-2.svg",
+            "bio": ""
+          }
+        ],
+        "story": "Kami bertemu di sebuah sore yang biasa saja, di toko buku kecil dekat kampus. Dari percakapan singkat tentang buku favorit, tumbuh cerita yang kini kami rayakan bersama.\n\nSetelah bertahun-tahun saling menemani, kami memutuskan untuk melangkah ke jenjang berikutnya. Kehadiran dan doa Anda akan menjadikan hari itu lebih berarti.",
+        "texts": {
+          "guestLabel": "Kepada Yth.",
+          "opening": "“Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir.”\n\n(Qs. Ar-Rum : 21)",
+          "welcome": "Tanpa mengurangi rasa hormat. kami mengundang Bapak/Ibu/Saudara/i untuk hadir dan memberikan doa restu pada hari pernikahan kami.",
+          "closing": "Merupakan suatu kehormatan dan kebahagiaan bagi kami, apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu. Atas kehadiran dan doa restunya, kami mengucapkan terima kasih.\nKami yang berbahagia,\nHana Rahmawati & Mukti Salim",
+          "rsvpIntro": "Doa restu Anda merupakan karunia yang sangat berarti bagi kami, dan jika memberi adalah ungkapan tanda kasih, Anda dapat memberi kado secara cashless\n\nUcapkan Sesuatu\nBerikan Ucapan & Doa Restu"
+        },
+        "headings": {
+          "people": "Mempelai",
+          "story": "Cerita Kami",
+          "event": "Detail Acara",
+          "gallery": "Galeri",
+          "extra": "Informasi Tambahan",
+          "rsvp": "Konfirmasi & Ucapan"
+        },
+        "extra": [
+          {
+            "title": "Dress code",
+            "text": "Warna pastel: pink, sage, atau putih."
+          },
+          {
+            "title": "Hadiah",
+            "text": "Doa restu Anda adalah hadiah terbaik. Bila ingin berbagi kasih, tersedia kotak amplop di lokasi acara."
+          },
+          {
+            "title": "Parkir",
+            "text": "Area parkir tersedia di basement dan halaman depan gedung."
+          }
+        ],
+        "gallery": [
+          "/demo/foto-1.svg",
+          "/demo/foto-2.svg",
+          "/demo/foto-3.svg",
+          "/demo/foto-4.svg",
+          "/demo/foto-5.svg",
+          "/demo/foto-6.svg"
+        ],
+        "media": {
+          "video": "",
+          "poster": "",
+          "music": "/uploads/4d257015b8fb21fa.mp3",
+          "musicTitle": "Musik latar"
+        },
+        "cover": {
+          "mode": "brief",
+          "tone": "light",
+          "bg": "#ffffff",
+          "buttonLabel": "Buka Undangan"
+        },
+        "theme": {
+          "primary": "#3f7a4d",
+          "accent": "#b94d76",
+          "background": "#fffafb",
+          "text": "#463f44",
+          "font": "modern"
+        },
+        "sections": {
+          "people": true,
+          "story": true,
+          "countdown": true,
+          "gallery": true,
+          "extra": true,
+          "rsvp": true
+        },
+        "rsvp": {
+          "maxGuests": 500,
+          "showWishes": true
+        }
+      },
+      "live": {
+        "template": "bunga",
+        "event": {
+          "type": "Pernikahan",
+          "title": "Mukti Salim & Hana Rahmawati",
+          "subtitle": "The Wedding of",
+          "date": "2026-12-20",
+          "day": "",
+          "time": "10:00",
+          "endTime": "13:00",
+          "tz": "WIB",
+          "venue": "Gedung Serbaguna Taman Melati",
+          "address": "Jl. Melati Raya No. 12, Jakarta Selatan",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gedung+Serbaguna+Taman+Melati+Jakarta",
+          "schedule": [
+            {
+              "label": "Akad Nikah",
+              "time": "10.00"
+            },
+            {
+              "label": "Resepsi",
+              "time": "11.30"
+            }
+          ]
+        },
+        "people": [
+          {
+            "role": "Mempelai Pria",
+            "name": "Sandy Pratama",
+            "parents": "Putra dari Bapak Hendra Pratama & Ibu Ratna Dewi",
+            "photo": "/demo/mempelai-1.svg",
+            "bio": ""
+          },
+          {
+            "role": "Mempelai Wanita",
+            "name": "Kala Anindya",
+            "parents": "Putri dari Bapak Surya Anindya & Ibu Lestari Wulan",
+            "photo": "/demo/mempelai-2.svg",
+            "bio": ""
+          }
+        ],
+        "story": "Kami bertemu di sebuah sore yang biasa saja, di toko buku kecil dekat kampus. Dari percakapan singkat tentang buku favorit, tumbuh cerita yang kini kami rayakan bersama.\n\nSetelah bertahun-tahun saling menemani, kami memutuskan untuk melangkah ke jenjang berikutnya. Kehadiran dan doa Anda akan menjadikan hari itu lebih berarti.",
+        "texts": {
+          "guestLabel": "Kepada Yth.",
+          "opening": "Dengan penuh syukur dan bahagia",
+          "welcome": "Kami mengundang Bapak/Ibu/Saudara/i untuk hadir dan memberikan doa restu pada hari pernikahan kami.",
+          "closing": "Merupakan kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu. Terima kasih atas segala perhatian dan doa yang diberikan.",
+          "rsvpIntro": "Mohon konfirmasi kehadiran Anda dan tinggalkan ucapan untuk kami."
+        },
+        "headings": {
+          "people": "Mempelai",
+          "story": "Cerita Kami",
+          "event": "Detail Acara",
+          "gallery": "Galeri",
+          "extra": "Informasi Tambahan",
+          "rsvp": "Konfirmasi & Ucapan"
+        },
+        "extra": [
+          {
+            "title": "Dress code",
+            "text": "Warna pastel: pink, sage, atau putih."
+          },
+          {
+            "title": "Hadiah",
+            "text": "Doa restu Anda adalah hadiah terbaik. Bila ingin berbagi kasih, tersedia kotak amplop di lokasi acara."
+          },
+          {
+            "title": "Parkir",
+            "text": "Area parkir tersedia di basement dan halaman depan gedung."
+          }
+        ],
+        "gallery": [
+          "/demo/foto-1.svg",
+          "/demo/foto-2.svg",
+          "/demo/foto-3.svg",
+          "/demo/foto-4.svg",
+          "/demo/foto-5.svg",
+          "/demo/foto-6.svg"
+        ],
+        "media": {
+          "video": "",
+          "poster": "",
+          "music": "/uploads/music-demo.m4a",
+          "musicTitle": "Musik latar"
+        },
+        "cover": {
+          "mode": "brief",
+          "tone": "light",
+          "bg": "#ffffff",
+          "buttonLabel": "Buka Undangan"
+        },
+        "theme": {
+          "primary": "#3f7a4d",
+          "accent": "#b94d76",
+          "background": "#fffafb",
+          "text": "#463f44",
+          "font": "modern"
+        },
+        "sections": {
+          "people": true,
+          "story": true,
+          "countdown": true,
+          "gallery": true,
+          "extra": true,
+          "rsvp": true
+        },
+        "rsvp": {
+          "maxGuests": 20,
+          "showWishes": true
+        }
+      }
+    }
+  ],
+  "rsvps": []
+}
